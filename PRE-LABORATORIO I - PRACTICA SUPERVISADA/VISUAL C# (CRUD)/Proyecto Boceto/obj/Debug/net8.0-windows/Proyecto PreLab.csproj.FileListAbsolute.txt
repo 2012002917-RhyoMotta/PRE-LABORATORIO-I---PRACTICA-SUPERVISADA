@@ -1,0 +1,19 @@
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\bin\Debug\net8.0-windows\Proyecto PreLab.exe
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\bin\Debug\net8.0-windows\Proyecto PreLab.deps.json
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\bin\Debug\net8.0-windows\Proyecto PreLab.runtimeconfig.json
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\bin\Debug\net8.0-windows\Proyecto PreLab.dll
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\bin\Debug\net8.0-windows\Proyecto PreLab.pdb
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto_PreLab.CreditosForm.resources
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto_PreLab.CRUDForm.resources
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto_PreLab.LoginForm.resources
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto PreLab.csproj.GenerateResource.cache
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto PreLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto PreLab.AssemblyInfoInputs.cache
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto PreLab.AssemblyInfo.cs
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto PreLab.csproj.CoreCompileInputs.cache
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto PreLab.dll
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\refint\Proyecto PreLab.dll
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto PreLab.pdb
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto PreLab.genruntimeconfig.cache
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\ref\Proyecto PreLab.dll
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto_PreLab.Properties.Resources.resources

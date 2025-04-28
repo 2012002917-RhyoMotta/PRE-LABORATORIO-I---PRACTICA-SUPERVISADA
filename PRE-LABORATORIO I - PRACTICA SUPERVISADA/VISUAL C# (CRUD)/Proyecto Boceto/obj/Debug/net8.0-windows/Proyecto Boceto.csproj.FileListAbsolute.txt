@@ -1,0 +1,17 @@
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto Boceto.csproj.GenerateResource.cache
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto Boceto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto Boceto.AssemblyInfoInputs.cache
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto Boceto.AssemblyInfo.cs
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto Boceto.csproj.CoreCompileInputs.cache
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\bin\Debug\net8.0-windows\Proyecto Boceto.exe
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\bin\Debug\net8.0-windows\Proyecto Boceto.deps.json
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\bin\Debug\net8.0-windows\Proyecto Boceto.runtimeconfig.json
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\bin\Debug\net8.0-windows\Proyecto Boceto.dll
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\bin\Debug\net8.0-windows\Proyecto Boceto.pdb
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto Boceto.dll
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\refint\Proyecto Boceto.dll
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto Boceto.pdb
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto Boceto.genruntimeconfig.cache
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\ref\Proyecto Boceto.dll
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto_Boceto.CRUDForm.resources
+C:\Users\maris\source\repos\Proyecto Boceto\Proyecto Boceto\obj\Debug\net8.0-windows\Proyecto_Boceto.LoginForm.resources
